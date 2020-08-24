@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is F836-77BE
+
+ Directory of C:\Users\Sumanraj Nayak\Desktop\javaProjects
+
+24-08-2020  23:59    <DIR>          .
+24-08-2020  23:59    <DIR>          ..
+24-08-2020  23:03               458 index.html
+24-08-2020  23:59                 0 index2.txt
+24-08-2020  23:50               684 MyProgram.class
+24-08-2020  23:46               132 MyProgram.java
+               4 File(s)          1,274 bytes
+               2 Dir(s)  104,074,285,056 bytes free
