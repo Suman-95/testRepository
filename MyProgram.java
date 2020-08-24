@@ -1,4 +1,6 @@
 class MyProgram{
 public static void main(String[] args){
-System.out.println("Testing Git Commit.");
+for(int i=0;i<10;i++){
+	System.out.println("Running time:"+i);
+}
 }}
